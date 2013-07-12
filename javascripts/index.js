@@ -2,11 +2,11 @@ KISSY.ready(function( S ){
 
     var imageURLList = [
         'http://farm8.staticflickr.com/7358/9248428534_cc1c1552af_z.jpg',
-//        'http://farm8.staticflickr.com/7441/9249700680_e29f31e5c2_b.jpg',
-//        'http://farm6.staticflickr.com/5498/9247412642_a76fe450a1_c.jpg',
-//        'http://farm4.staticflickr.com/3829/9248558901_1904e2ec6d.jpg',
-//        'http://farm8.staticflickr.com/7426/9246464121_670d644ae0.jpg',
-//        'http://farm4.staticflickr.com/3816/9244666011_2f15598496_z.jpg',
+        'http://farm8.staticflickr.com/7441/9249700680_e29f31e5c2_b.jpg',
+        'http://farm6.staticflickr.com/5498/9247412642_a76fe450a1_c.jpg',
+        'http://farm4.staticflickr.com/3829/9248558901_1904e2ec6d.jpg',
+        'http://farm8.staticflickr.com/7426/9246464121_670d644ae0.jpg',
+        'http://farm4.staticflickr.com/3816/9244666011_2f15598496_z.jpg',
         'http://farm4.staticflickr.com/3741/9248125760_0aa3093911_b.jpg',
         'http://farm6.staticflickr.com/5544/9246868379_bf54ffe167.jpg',
         'http://farm4.staticflickr.com/3775/9247413450_17aa6e2ee7_c.jpg',
